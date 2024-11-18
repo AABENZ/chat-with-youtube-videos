@@ -1,0 +1,11 @@
+ 
+openai
+langchain
+PyPDF2
+streamlit
+python-dotenv
+yt-dlp
+assemblyai
+langchain
+chromadb
+tiktoken
